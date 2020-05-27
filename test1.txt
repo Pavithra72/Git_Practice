@@ -1,18 +1,18 @@
-Rohini's update - scenario 1 - both pavi and rohini updated same line in notepad
+Rohini's update - scenario 1 - both pavi and rohini updated same line 
 first line to test - rohini - updated
 Practice with rohini
 First line to test - pavi
 second line by Rohini
 
 
-Testing  with different line pavithra
+Testing  with different line pavithra - updated again by rohini
 Second line to test - pavi
 Third line for testing - pavi
 
 
 
 Rohini's update -scenario 2 - pavi and rohini updated different line in notepad
-second line to test - rohini
+second line to test - rohini - updated by Rohini
 Third line by Rohini
 Fourth line for testing - pavi
 
