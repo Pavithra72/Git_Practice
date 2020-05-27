@@ -2,7 +2,7 @@ Rohini's update - scenario 1 - both pavi and rohini updated same line in notepad
 first line to test - rohini
 Practice with rohini
 First line to test - pavi
-
+second line by Rohini
 
 
 Testing  with different line pavithra
@@ -13,7 +13,8 @@ Third line for testing - pavi
 
 Rohini's update -scenario 2 - pavi and rohini updated different line in notepad
 second line to test - rohini
-
-
-
+Third line by Rohini
 Fourth line for testing - pavi
+
+
+
